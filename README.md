@@ -1,5 +1,5 @@
-# SML-Balance-Scale
-Supervised Machine Learning pratical exercise using balance scale dataset
+# Class Pratical Assigment
+#### 21.03.2022
 
 ### Data Set Information:
 
@@ -16,3 +16,5 @@ This data set was generated to model psychological experimental results. Each ex
 
 ### References: 
  - https://archive.ics.uci.edu/ml/datasets/Balance+Scale
+ - https://github.com/TheAIFramework/PracticalMachineLearning/blob/Trees/4%20-%20Ensemble%20Methods.ipynb
+ - https://github.com/TheAIFramework/PracticalMachineLearning/blob/Trees/3%20-%20Decision%20Trees.ipynb
